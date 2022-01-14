@@ -1,4 +1,4 @@
 Covid-19 Map
 
 
-https://gianval.github.io/index.html/
+https://giannval.github.io/index.html/
